@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
          * 所以开启事务保存数据到数据库
          */
     }
-    //添加注释
-    //添加222223
+
 
 }
